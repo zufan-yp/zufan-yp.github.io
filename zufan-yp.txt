@@ -1,7 +1,7 @@
-<span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> cd zufan-yp/<!-- kjsdfhkjdhsfkjdshfkj -->index.php
+<span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> cd zufan-yp/<!-- kjsdfhkjdhsfkjdshfkj -->index
 <span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> ls <!-- kjsdfhkjdhsfkjdshfkj -->
-<span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> zufan-yp.txt <!-- kjsdfhkjdhsfkjdshfkj -->
-<span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->zufan-yp.txt<br/><br/><br/><br/>
+<span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> zufan-yp.php <!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->zufan-yp.php<br/><br/><br/><br/>
 Welcome to my index.php, "<span id="k">Hellow World!!</span>". <!-- sjkfhskjf -->
 
 Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
