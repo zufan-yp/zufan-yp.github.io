@@ -12,7 +12,7 @@
 #### Home Page
 <p align="center"> 
   <kbd>
-    <a href="https://github.com/zufan-yp/portfolio" target="_blank"><img src="website_images/HomePage.gif">
+    <a href="https://github.com/zufan-yp/portfolio" target="_blank"><img src="website_images/Home.png">
   </a>
   </kbd>
 </p>
