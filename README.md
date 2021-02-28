@@ -1,2 +1,2 @@
-# CodeNerve.github.io
-Terminal based portfolio website for CodeNerve
+# zufan-yp.github.io
+Terminal based portfolio website for zufan-yp.github.io
