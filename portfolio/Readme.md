@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://github.com/zufan-yp
 
 :star: Star me on GitHub — it helps!
 
@@ -12,7 +12,7 @@
 #### Home Page
 <p align="center"> 
   <kbd>
-    <a href="https://rajaprerak.github.io" target="_blank"><img src="website_images/HomePage.gif">
+    <a href="https://github.com/zufan-yp/portfolio" target="_blank"><img src="website_images/HomePage.gif">
   </a>
   </kbd>
 </p>
@@ -20,7 +20,7 @@
 #### About Page
 <p align="center"> 
   <kbd>
-    <a href="https://rajaprerak.github.io" target="_blank"><img src="website_images/AboutPage.png">
+    <a href="https://github.com/zufan-yp/portfolio" target="_blank"><img src="website_images/About.png">
   </a>
   </kbd>
 </p>
@@ -28,7 +28,7 @@
 #### Projects Page
 <p align="center"> 
   <kbd>
-    <a href="https://rajaprerak.github.io" target="_blank"><img src="website_images/ProjectPage.png">
+    <a href="https://github.com/zufan-yp/portfolio" target="_blank"><img src="website_images/Skill.png">
   </a>
   </kbd>
 </p>
@@ -50,13 +50,9 @@
 
 ## Sections 📚
 ✔️ About\
-✔️ Interests\
 ✔️ Education\
 ✔️ Online Certification\
-✔️ Experience\
-✔️ Projects \
 ✔️ Skills \
-✔️ Resume\
 ✔️ Contact Info
 
 
