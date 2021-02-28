@@ -1,6 +1,6 @@
 <span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> cd zufan-yp/<!-- kjsdfhkjdhsfkjdshfkj -->index
 <span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> ls <!-- kjsdfhkjdhsfkjdshfkj -->
-<span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> zufan-yp.php <!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> zufan-yp.php
 <span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->zufan-yp.php<br/><br/>
 Welcome to my zufan-yp.github.io panel, "<span id="k">Hellow World!!</span>". <!-- sjkfhskjf -->
 
@@ -10,4 +10,4 @@ Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglag
 <p>Contact me if you need help yes by sending me an email<br><br><br><a href="mailto:zufan.ramadhan@gmail.com"> Here you go</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
 <p>Cheers!</p>
-<span id="a">pradyuman@dixit</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">root@zufan-yp</span>:<span id="b">~</span><span id="c">$</span> exit
