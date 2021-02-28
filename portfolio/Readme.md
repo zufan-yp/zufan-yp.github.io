@@ -25,7 +25,7 @@
   </kbd>
 </p>
 
-#### Projects Page
+#### Skill Page
 <p align="center"> 
   <kbd>
     <a href="https://github.com/zufan-yp/portfolio" target="_blank"><img src="website_images/Skill.png">
